@@ -1,8 +1,7 @@
-Hi there! I'm Andreea Matei 👋
-
-<img src="./assets/andreea-pixel-cat.gif"
-     width="300"
-     alt="Andreea's pixel cat"/> 
+Hi there! I'm Andreea Matei 
+<p align="center">
+  <img src="https://media.tenor.com/placeholder.gif" width="300">
+</p>
      
 📊 Data Analyst | Business Intelligence | Data Science
 I'm a Master's graduate in Complex Data Analysis from Babeș-Bolyai University, passionate about turning data into meaningful insights and supporting data-driven decisions.
