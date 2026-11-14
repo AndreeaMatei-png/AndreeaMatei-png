@@ -1,6 +1,6 @@
 Hi there! I'm Andreea Matei 
 <p align="center">
-  <img src="https://media.tenor.com/placeholder.gif" width="300">
+  <img src="./andreea-pixel-cat.gif" width="250">
 </p>
      
 📊 Data Analyst | Business Intelligence | Data Science
