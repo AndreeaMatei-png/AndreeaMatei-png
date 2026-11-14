@@ -8,15 +8,10 @@ I'm currently focused on strengthening my skills in Python, SQL and Power BI, wh
 🤔 About Me
 
 🎓 Master's graduate in Complex Data Analysis – Babeș-Bolyai University.
-
 📊 Interested in Data Analytics, Business Intelligence and Data Science.
-
 🐍 Working with Python, Pandas and data visualization.
-
 💻 Developing my SQL and Power BI skills through practical projects.
-
 📈 Experience with Excel-based operational reporting and data validation.
-
 🔍 Interested in data storytelling, statistical analysis and machine learning.
 
 💼 Professional Experience
