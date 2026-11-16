@@ -14,26 +14,6 @@ I'm currently focused on strengthening my skills in Python, SQL and Power BI, wh
 📈 Experience with Excel-based operational reporting and data validation.
 🔍 Interested in data storytelling, statistical analysis and machine learning.
 
-💼 Professional Experience
-
-📊 Data Reporting & Customer Operations – Groupama
-Prepared recurring operational reports using Excel.
-Worked with PivotTables, formulas, VLOOKUP and data validation.
-Organized and checked datasets to identify duplicates, missing information and inconsistencies.
-Analyzed monthly reporting data to support operational monitoring.
-
-🔎 KYC Analyst – Solidsteak
-Performed customer verification and due diligence.
-Reviewed identity documents and proof of address.
-Identified inconsistencies and potential risk indicators.
-Escalated cases requiring additional compliance review.
-
-💼 Financial Consultant – OVB Romania
-
-Conducted financial needs assessments.
-Analyzed client objectives and risk profiles.
-Worked with financial information to support personalized recommendations.
-
 🛠️ Tech Stack & Skills
 
 📊 Data Analytics & Business Intelligence
