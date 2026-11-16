@@ -1,4 +1,4 @@
-Hi there! I'm Andreea Matei 
+Hi there! I'm Andreea Matei <img src="LINK_CĂTRE_SVG_ANIMAT" width="100">
  <p align="center">
   <img src="./andreea-pixel-cat.gif" width="250">
 </p>
