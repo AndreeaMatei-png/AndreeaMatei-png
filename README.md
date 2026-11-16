@@ -1,8 +1,8 @@
 Hi there! I'm Andreea Matei💻
- <p align="center">
+
+📊 Data Analyst | Business Intelligence | Data Science  <p align="center">
   <img src="./andreea-pixel-cat.gif" width="250">
 </p>
-📊 Data Analyst | Business Intelligence | Data Science
 I'm a Master's graduate in Complex Data Analysis from Babeș-Bolyai University, passionate about turning data into meaningful insights and supporting data-driven decisions.
 My background combines data analysis, customer operations, financial consulting and KYC compliance. I enjoy working with datasets, discovering patterns, creating visualizations and finding ways to make information easier to understand.
 I'm currently focused on strengthening my skills in Python, SQL and Power BI, while building practical projects that combine data analytics, statistics and machine learning.
